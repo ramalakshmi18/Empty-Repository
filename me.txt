@@ -1,0 +1,5 @@
+{{#user}}
+My name is Rama Lakshmi.
+Here are my skills : html, css ,PYTHON , Java Script and Mysql. 
+My email id is ramalakshmidevarapalli@gmail.com.
+ {{/user}}
